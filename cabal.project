@@ -1,0 +1,6 @@
+source-repository-package
+  type: git
+  location: https://github.com/byorgey/graphviz
+  tag: ad580585c5cf698c5ee4d4cbedfb2da21b7b4026
+
+packages: *.cabal
